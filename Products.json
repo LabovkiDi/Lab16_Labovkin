@@ -1,0 +1,27 @@
+[
+  {
+    "ProductCode": 13,
+    "ProductName": "iphone",
+    "ProductPrice": 1500
+  },
+  {
+    "ProductCode": 20,
+    "ProductName": "tv",
+    "ProductPrice": 2000
+  },
+  {
+    "ProductCode": 12,
+    "ProductName": "тостер",
+    "ProductPrice": 200
+  },
+  {
+    "ProductCode": 8,
+    "ProductName": "шкаф",
+    "ProductPrice": 1800
+  },
+  {
+    "ProductCode": 23,
+    "ProductName": "пылесос",
+    "ProductPrice": 700
+  }
+]
